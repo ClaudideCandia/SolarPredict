@@ -1,8 +1,6 @@
 <p align="center">
   <img src="Gemini_Generated_Image_qunro2qunro2qunr.jpeg" alt="SolarPredict Logo" width="600"/>
 </p>
-
-# SolarPredict ☀️🤖
 **Machine Learning Pipeline per la Stima della Produzione Fotovoltaica e Analisi delle Variabili**
 
 ## 📖 Descrizione del Progetto
